@@ -1,5 +1,5 @@
 title,permalink,body,published_at,filter,categories,tags,jenis,brand,description,image,image1,image2,image3,image4,image5,product,price,hargajual,profit,sku,kondisi
-Jual Sepatu Sandal / Bustong Casual Pria - RD 412 Murah,sepatu-sandal-bustong-casual-pria-rd-412,"
+Jual Sepatu Sandal / Bustong Casual Pria - YA 056 Murah,ya-056,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -15,19 +15,19 @@ Jual Sepatu Sandal / Bustong Casual Pria - RD 412 Murah,sepatu-sandal-bustong-ca
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -47,7 +47,7 @@ Jual Sepatu Sandal / Bustong Casual Pria - RD 412 Murah,sepatu-sandal-bustong-ca
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Sepatu Sandal / Bustong Casual Pria - RD 412 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Sandal Pria ini terbuat dari bahan KULIT.<br/>Kode : RD 412<br/>Warna : COKLAT<br/>Bahan : KULIT<br/>Ukuran : 38 - 43<br/>Berat : 1 kg<br/>Info Lainnya = SOL : TPR<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Sepatu Sandal / Bustong Casual Pria - YA 056 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Sandal Pria ini terbuat dari bahan KULIT.<br/>Kode : YA 056<br/>Warna : HITAM<br/>Bahan : KULIT<br/>Ukuran : 38 ~ 43<br/>Berat : 1000 gram<br/>Info Lainnya = SOL : TPR<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p><b>Gambar lain :</b></p>
@@ -60,11 +60,9 @@ Jual Sepatu Sandal / Bustong Casual Pria - RD 412 Murah,sepatu-sandal-bustong-ca
                     </div>
                     <br/>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -72,8 +70,8 @@ Jual Sepatu Sandal / Bustong Casual Pria - RD 412 Murah,sepatu-sandal-bustong-ca
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-16,html,sepatu-sandal-pria,catenzo,sepatu-sandal-pria,catenzo,"Sepatu Sandal Pria Bahan KULIT, Ukuran 38 - 43, Warna COKLAT",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/310-rd-412.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/rd-412-a.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/rd-412-b.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/rd-412-c.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/rd-412-d.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/rd-412-e.jpg,Sepatu Sandal / Bustong Casual Pria - RD 412,Rp 175.400,Rp 205.900,Rp 30.500,RD 412,Baru
-Jual Sepatu Sandal / Bustong Casual Pria - YA 042 Murah,sepatu-sandal-bustong-casual-pria-ya-042,"
+     </div><!--/category-tab-->",2018-02-25,html,sepatu-sandal-pria,catenzo,sepatu-sandal-pria,catenzo,"Sepatu Sandal Pria Bahan KULIT, Ukuran 38 ~ 43, Warna HITAM",https://images.lipatan.com/katalog-catenzo-2018/foto-produk-satuan/ya-056.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/ya-056-a.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/ya-056-b.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/ya-056-c.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/ya-056-d.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/ya-056-e.jpg,Sepatu Sandal / Bustong Casual Pria - YA 056,Rp 140.900,Rp 162.900,Rp 22.000,YA 056,Baru
+Jual Sepatu Sandal / Bustong Casual Pria - RD 412 Murah,rd-412,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -89,19 +87,19 @@ Jual Sepatu Sandal / Bustong Casual Pria - YA 042 Murah,sepatu-sandal-bustong-ca
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -121,7 +119,7 @@ Jual Sepatu Sandal / Bustong Casual Pria - YA 042 Murah,sepatu-sandal-bustong-ca
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Sepatu Sandal / Bustong Casual Pria - YA 042 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Sandal Pria ini terbuat dari bahan KULIT.<br/>Kode : YA 042<br/>Warna : HITAM<br/>Bahan : KULIT<br/>Ukuran : 38 - 43<br/>Berat : 1 kg<br/>Info Lainnya = SOL : TPR<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Sepatu Sandal / Bustong Casual Pria - RD 412 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Sandal Pria ini terbuat dari bahan KULIT.<br/>Kode : RD 412<br/>Warna : COKLAT<br/>Bahan : KULIT<br/>Ukuran : 38 ~ 43<br/>Berat : 1000 gram<br/>Info Lainnya = SOL : TPR<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p><b>Gambar lain :</b></p>
@@ -134,11 +132,9 @@ Jual Sepatu Sandal / Bustong Casual Pria - YA 042 Murah,sepatu-sandal-bustong-ca
                     </div>
                     <br/>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -146,8 +142,8 @@ Jual Sepatu Sandal / Bustong Casual Pria - YA 042 Murah,sepatu-sandal-bustong-ca
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-16,html,sepatu-sandal-pria,catenzo,sepatu-sandal-pria,catenzo,"Sepatu Sandal Pria Bahan KULIT, Ukuran 38 - 43, Warna HITAM",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/311-ya-042.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/ya-042-a.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/ya-042-b.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/ya-042-c.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/ya-042-d.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/ya-042-e.jpg,Sepatu Sandal / Bustong Casual Pria - YA 042,Rp 136.400,Rp 159.900,Rp 23.500,YA 042,Baru
-Jual Sepatu Sandal / Bustong Casual Pria - YA 040 Murah,sepatu-sandal-bustong-casual-pria-ya-040,"
+     </div><!--/category-tab-->",2018-02-25,html,sepatu-sandal-pria,catenzo,sepatu-sandal-pria,catenzo,"Sepatu Sandal Pria Bahan KULIT, Ukuran 38 ~ 43, Warna COKLAT",https://images.lipatan.com/katalog-catenzo-2018/foto-produk-satuan/rd-412.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/rd-412-a.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/rd-412-b.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/rd-412-c.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/rd-412-d.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/rd-412-e.jpg,Sepatu Sandal / Bustong Casual Pria - RD 412,Rp 178.900,Rp 205.900,Rp 27.000,RD 412,Baru
+Jual Sepatu Sandal / Bustong Casual Pria - YA 040 Murah,ya-040,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -163,19 +159,19 @@ Jual Sepatu Sandal / Bustong Casual Pria - YA 040 Murah,sepatu-sandal-bustong-ca
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -195,7 +191,7 @@ Jual Sepatu Sandal / Bustong Casual Pria - YA 040 Murah,sepatu-sandal-bustong-ca
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Sepatu Sandal / Bustong Casual Pria - YA 040 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Sandal Pria ini terbuat dari bahan KULIT.<br/>Kode : YA 040<br/>Warna : HITAM<br/>Bahan : KULIT<br/>Ukuran : 38 - 43<br/>Berat : 1 kg<br/>Info Lainnya = SOL : TPR<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Sepatu Sandal / Bustong Casual Pria - YA 040 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Sandal Pria ini terbuat dari bahan KULIT.<br/>Kode : YA 040<br/>Warna : HITAM<br/>Bahan : KULIT<br/>Ukuran : 38 ~ 43<br/>Berat : 1000 gram<br/>Info Lainnya = SOL : TPR<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p><b>Gambar lain :</b></p>
@@ -208,11 +204,9 @@ Jual Sepatu Sandal / Bustong Casual Pria - YA 040 Murah,sepatu-sandal-bustong-ca
                     </div>
                     <br/>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -220,8 +214,8 @@ Jual Sepatu Sandal / Bustong Casual Pria - YA 040 Murah,sepatu-sandal-bustong-ca
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-16,html,sepatu-sandal-pria,catenzo,sepatu-sandal-pria,catenzo,"Sepatu Sandal Pria Bahan KULIT, Ukuran 38 - 43, Warna HITAM",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/312-ya-040.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/ya-040-a.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/ya-040-b.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/ya-040-c.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/ya-040-d.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/ya-040-e.jpg,Sepatu Sandal / Bustong Casual Pria - YA 040,Rp 136.400,Rp 159.900,Rp 23.500,YA 040,Baru
-Jual Sepatu Sandal / Bustong Casual Pria - YA 045 Murah,sepatu-sandal-bustong-casual-pria-ya-045,"
+     </div><!--/category-tab-->",2018-02-25,html,sepatu-sandal-pria,catenzo,sepatu-sandal-pria,catenzo,"Sepatu Sandal Pria Bahan KULIT, Ukuran 38 ~ 43, Warna HITAM",https://images.lipatan.com/katalog-catenzo-2018/foto-produk-satuan/ya-040.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/ya-040-a.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/ya-040-b.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/ya-040-c.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/ya-040-d.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/ya-040-e.jpg,Sepatu Sandal / Bustong Casual Pria - YA 040,Rp 140.900,Rp 162.900,Rp 22.000,YA 040,Baru
+Jual Sepatu Sandal / Bustong Casual Pria - RD 431 Murah,rd-431,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -237,19 +231,19 @@ Jual Sepatu Sandal / Bustong Casual Pria - YA 045 Murah,sepatu-sandal-bustong-ca
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -269,7 +263,7 @@ Jual Sepatu Sandal / Bustong Casual Pria - YA 045 Murah,sepatu-sandal-bustong-ca
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Sepatu Sandal / Bustong Casual Pria - YA 045 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Sandal Pria ini terbuat dari bahan KULIT.<br/>Kode : YA 045<br/>Warna : HITAM<br/>Bahan : KULIT<br/>Ukuran : 38 - 43<br/>Berat : 1 kg<br/>Info Lainnya = SOL : TPR<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Sepatu Sandal / Bustong Casual Pria - RD 431 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Sandal Pria ini terbuat dari bahan SINTETIS.<br/>Kode : RD 431<br/>Warna : ABU ABU<br/>Bahan : SINTETIS<br/>Ukuran : 39 ~ 43<br/>Berat : 1000 gram<br/>Info Lainnya = SOL : TPR<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p><b>Gambar lain :</b></p>
@@ -282,11 +276,9 @@ Jual Sepatu Sandal / Bustong Casual Pria - YA 045 Murah,sepatu-sandal-bustong-ca
                     </div>
                     <br/>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -294,8 +286,8 @@ Jual Sepatu Sandal / Bustong Casual Pria - YA 045 Murah,sepatu-sandal-bustong-ca
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-16,html,sepatu-sandal-pria,catenzo,sepatu-sandal-pria,catenzo,"Sepatu Sandal Pria Bahan KULIT, Ukuran 38 - 43, Warna HITAM",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/313-ya-045.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/ya-045-a.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/ya-045-b.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/ya-045-c.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/ya-045-d.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/ya-045-e.jpg,Sepatu Sandal / Bustong Casual Pria - YA 045,Rp 136.400,Rp 159.900,Rp 23.500,YA 045,Baru
-Jual Sepatu Sandal / Bustong Casual Pria - RD 417 Murah,sepatu-sandal-bustong-casual-pria-rd-417,"
+     </div><!--/category-tab-->",2018-02-25,html,sepatu-sandal-pria,catenzo,sepatu-sandal-pria,catenzo,"Sepatu Sandal Pria Bahan SINTETIS, Ukuran 39 ~ 43, Warna ABU ABU",https://images.lipatan.com/katalog-catenzo-2018/foto-produk-satuan/rd-431.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/rd-431-a.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/rd-431-b.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/rd-431-c.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/rd-431-d.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/rd-431-e.jpg,Sepatu Sandal / Bustong Casual Pria - RD 431,Rp 125.900,Rp 144.900,Rp 19.000,RD 431,Baru
+Jual Sepatu Sandal / Bustong Casual Pria - YA 053 Murah,ya-053,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -311,19 +303,19 @@ Jual Sepatu Sandal / Bustong Casual Pria - RD 417 Murah,sepatu-sandal-bustong-ca
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -343,7 +335,7 @@ Jual Sepatu Sandal / Bustong Casual Pria - RD 417 Murah,sepatu-sandal-bustong-ca
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Sepatu Sandal / Bustong Casual Pria - RD 417 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Sandal Pria ini terbuat dari bahan KULIT.<br/>Kode : RD 417<br/>Warna : HITAM<br/>Bahan : KULIT<br/>Ukuran : 38 - 43<br/>Berat : 1 kg<br/>Info Lainnya = SOL : TPR<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Sepatu Sandal / Bustong Casual Pria - YA 053 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Sandal Pria ini terbuat dari bahan KULIT.<br/>Kode : YA 053<br/>Warna : HITAM<br/>Bahan : KULIT<br/>Ukuran : 38 ~ 43<br/>Berat : 1100 gram<br/>Info Lainnya = SOL : TPR<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p><b>Gambar lain :</b></p>
@@ -356,11 +348,9 @@ Jual Sepatu Sandal / Bustong Casual Pria - RD 417 Murah,sepatu-sandal-bustong-ca
                     </div>
                     <br/>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -368,8 +358,8 @@ Jual Sepatu Sandal / Bustong Casual Pria - RD 417 Murah,sepatu-sandal-bustong-ca
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-16,html,sepatu-sandal-pria,catenzo,sepatu-sandal-pria,catenzo,"Sepatu Sandal Pria Bahan KULIT, Ukuran 38 - 43, Warna HITAM",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/314-rd-417.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/rd-417-a.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/rd-417-b.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/rd-417-c.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/rd-417-d.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/rd-417-e.jpg,Sepatu Sandal / Bustong Casual Pria - RD 417,Rp 177.400,Rp 207.900,Rp 30.500,RD 417,Baru
-Jual Sepatu Sandal / Bustong Casual Pria - YA 053 Murah,sepatu-sandal-bustong-casual-pria-ya-053,"
+     </div><!--/category-tab-->",2018-02-25,html,sepatu-sandal-pria,catenzo,sepatu-sandal-pria,catenzo,"Sepatu Sandal Pria Bahan KULIT, Ukuran 38 ~ 43, Warna HITAM",https://images.lipatan.com/katalog-catenzo-2018/foto-produk-satuan/ya-053.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/ya-053-a.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/ya-053-b.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/ya-053-c.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/ya-053-d.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/ya-053-e.jpg,Sepatu Sandal / Bustong Casual Pria - YA 053,Rp 140.900,Rp 162.900,Rp 22.000,YA 053,Baru
+Jual Sepatu Sandal / Bustong Casual Pria - RD 429 Murah,rd-429,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -385,19 +375,19 @@ Jual Sepatu Sandal / Bustong Casual Pria - YA 053 Murah,sepatu-sandal-bustong-ca
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -417,7 +407,7 @@ Jual Sepatu Sandal / Bustong Casual Pria - YA 053 Murah,sepatu-sandal-bustong-ca
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Sepatu Sandal / Bustong Casual Pria - YA 053 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Sandal Pria ini terbuat dari bahan KULIT.<br/>Kode : YA 053<br/>Warna : HITAM<br/>Bahan : KULIT<br/>Ukuran : 38 - 43<br/>Berat : 1 kg<br/>Info Lainnya = SOL : TPR<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Sepatu Sandal / Bustong Casual Pria - RD 429 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Sandal Pria ini terbuat dari bahan SINTETIS.<br/>Kode : RD 429<br/>Warna : COKLAT<br/>Bahan : SINTETIS<br/>Ukuran : 38 ~ 43<br/>Berat : 1000 gram<br/>Info Lainnya = SOL : TPR<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p><b>Gambar lain :</b></p>
@@ -430,11 +420,9 @@ Jual Sepatu Sandal / Bustong Casual Pria - YA 053 Murah,sepatu-sandal-bustong-ca
                     </div>
                     <br/>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -442,8 +430,8 @@ Jual Sepatu Sandal / Bustong Casual Pria - YA 053 Murah,sepatu-sandal-bustong-ca
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-16,html,sepatu-sandal-pria,catenzo,sepatu-sandal-pria,catenzo,"Sepatu Sandal Pria Bahan KULIT, Ukuran 38 - 43, Warna HITAM",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/315-ya-053.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/ya-053-a.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/ya-053-b.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/ya-053-c.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/ya-053-d.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/ya-053-e.jpg,Sepatu Sandal / Bustong Casual Pria - YA 053,Rp 139.900,Rp 163.900,Rp 24.000,YA 053,Baru
-Jual Sepatu Sandal / Bustong Casual Pria - RD 423 Murah,sepatu-sandal-bustong-casual-pria-rd-423,"
+     </div><!--/category-tab-->",2018-02-25,html,sepatu-sandal-pria,catenzo,sepatu-sandal-pria,catenzo,"Sepatu Sandal Pria Bahan SINTETIS, Ukuran 38 ~ 43, Warna COKLAT",https://images.lipatan.com/katalog-catenzo-2018/foto-produk-satuan/rd-429.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/rd-429-a.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/rd-429-b.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/rd-429-c.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/rd-429-d.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/rd-429-e.jpg,Sepatu Sandal / Bustong Casual Pria - RD 429,Rp 125.900,Rp 144.900,Rp 19.000,RD 429,Baru
+Jual Sepatu Sandal / Bustong Casual Pria - YA 057 Murah,ya-057,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -459,19 +447,19 @@ Jual Sepatu Sandal / Bustong Casual Pria - RD 423 Murah,sepatu-sandal-bustong-ca
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -491,7 +479,7 @@ Jual Sepatu Sandal / Bustong Casual Pria - RD 423 Murah,sepatu-sandal-bustong-ca
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Sepatu Sandal / Bustong Casual Pria - RD 423 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Sandal Pria ini terbuat dari bahan KULIT.<br/>Kode : RD 423<br/>Warna : COKLAT<br/>Bahan : KULIT<br/>Ukuran : 39 - 43<br/>Berat : 1 kg<br/>Info Lainnya = SOL : TPR<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Sepatu Sandal / Bustong Casual Pria - YA 057 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Sandal Pria ini terbuat dari bahan KULIT.<br/>Kode : YA 057<br/>Warna : HITAM<br/>Bahan : KULIT<br/>Ukuran : 38 ~ 43<br/>Berat : 1000 gram<br/>Info Lainnya = SOL : TPR<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p><b>Gambar lain :</b></p>
@@ -504,11 +492,9 @@ Jual Sepatu Sandal / Bustong Casual Pria - RD 423 Murah,sepatu-sandal-bustong-ca
                     </div>
                     <br/>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -516,8 +502,8 @@ Jual Sepatu Sandal / Bustong Casual Pria - RD 423 Murah,sepatu-sandal-bustong-ca
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-16,html,sepatu-sandal-pria,catenzo,sepatu-sandal-pria,catenzo,"Sepatu Sandal Pria Bahan KULIT, Ukuran 39 - 43, Warna COKLAT",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/316-rd-423.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/rd-423-a.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/rd-423-b.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/rd-423-c.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/rd-423-d.jpg,https://images.lipatan.com/katalog-catenzo-2017-2/foto-berbagai-sudut/rd-423-e.jpg,Sepatu Sandal / Bustong Casual Pria - RD 423,Rp 205.400,Rp 240.900,Rp 35.500,RD 423,Baru
-Jual Sepatu Sandal / Bustong Kasual Pria - RYA 048 Murah,sepatu-sandal-bustong-kasual-pria-rya-048,"
+     </div><!--/category-tab-->",2018-02-25,html,sepatu-sandal-pria,catenzo,sepatu-sandal-pria,catenzo,"Sepatu Sandal Pria Bahan KULIT, Ukuran 38 ~ 43, Warna HITAM",https://images.lipatan.com/katalog-catenzo-2018/foto-produk-satuan/ya-057.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/ya-057-a.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/ya-057-b.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/ya-057-c.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/ya-057-d.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/ya-057-e.jpg,Sepatu Sandal / Bustong Casual Pria - YA 057,Rp 140.900,Rp 162.900,Rp 22.000,YA 057,Baru
+Jual Sepatu Sandal / Bustong Casual Pria - YA 042 Murah,ya-042,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -533,19 +519,19 @@ Jual Sepatu Sandal / Bustong Kasual Pria - RYA 048 Murah,sepatu-sandal-bustong-k
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -565,7 +551,7 @@ Jual Sepatu Sandal / Bustong Kasual Pria - RYA 048 Murah,sepatu-sandal-bustong-k
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Sepatu Sandal / Bustong Kasual Pria - RYA 048 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Sandal Pria ini terbuat dari bahan KULIT.<br/>Kode : RYA 048<br/>Warna : HITAM<br/>Bahan : KULIT<br/>Ukuran : 38 - 43<br/>Berat : 1 kg<br/>Info Lainnya = SOL : TPR<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Sepatu Sandal / Bustong Casual Pria - YA 042 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Sandal Pria ini terbuat dari bahan KULIT.<br/>Kode : YA 042<br/>Warna : HITAM<br/>Bahan : KULIT<br/>Ukuran : 38 ~ 43<br/>Berat : 1000 gram<br/>Info Lainnya = SOL : TPR<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p><b>Gambar lain :</b></p>
@@ -578,11 +564,9 @@ Jual Sepatu Sandal / Bustong Kasual Pria - RYA 048 Murah,sepatu-sandal-bustong-k
                     </div>
                     <br/>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -590,8 +574,8 @@ Jual Sepatu Sandal / Bustong Kasual Pria - RYA 048 Murah,sepatu-sandal-bustong-k
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-17,html,sepatu-sandal-pria,raindoz,sepatu-sandal-pria,raindoz,"Sepatu Sandal Pria Bahan KULIT, Ukuran 38 - 43, Warna HITAM",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/197-rya-048.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rya-048-a.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rya-048-b.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rya-048-c.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rya-048-d.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rya-048-e.jpg,Sepatu Sandal / Bustong Kasual Pria - RYA 048,Rp 131.900,Rp 154.900,Rp 23.000,RYA 048,Baru
-Jual Sepatu Sandal / Bustong Kasual Pria - RYA 051 Murah,sepatu-sandal-bustong-kasual-pria-rya-051,"
+     </div><!--/category-tab-->",2018-02-25,html,sepatu-sandal-pria,catenzo,sepatu-sandal-pria,catenzo,"Sepatu Sandal Pria Bahan KULIT, Ukuran 38 ~ 43, Warna HITAM",https://images.lipatan.com/katalog-catenzo-2018/foto-produk-satuan/ya-042.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/ya-042-a.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/ya-042-b.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/ya-042-c.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/ya-042-d.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/ya-042-e.jpg,Sepatu Sandal / Bustong Casual Pria - YA 042,Rp 140.900,Rp 162.900,Rp 22.000,YA 042,Baru
+Jual Sepatu Sandal / Bustong Casual Pria - RD 423 Murah,rd-423,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -607,19 +591,19 @@ Jual Sepatu Sandal / Bustong Kasual Pria - RYA 051 Murah,sepatu-sandal-bustong-k
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -639,7 +623,7 @@ Jual Sepatu Sandal / Bustong Kasual Pria - RYA 051 Murah,sepatu-sandal-bustong-k
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Sepatu Sandal / Bustong Kasual Pria - RYA 051 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Sandal Pria ini terbuat dari bahan KULIT.<br/>Kode : RYA 051<br/>Warna : HITAM<br/>Bahan : KULIT<br/>Ukuran : 38 - 43<br/>Berat : 1 kg<br/>Info Lainnya = SOL : TPR<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Sepatu Sandal / Bustong Casual Pria - RD 423 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Sandal Pria ini terbuat dari bahan KULIT.<br/>Kode : RD 423<br/>Warna : COKLAT<br/>Bahan : KULIT<br/>Ukuran : 39 ~ 43<br/>Berat : 1000 gram<br/>Info Lainnya = SOL : TPR<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p><b>Gambar lain :</b></p>
@@ -652,11 +636,9 @@ Jual Sepatu Sandal / Bustong Kasual Pria - RYA 051 Murah,sepatu-sandal-bustong-k
                     </div>
                     <br/>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -664,8 +646,8 @@ Jual Sepatu Sandal / Bustong Kasual Pria - RYA 051 Murah,sepatu-sandal-bustong-k
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-17,html,sepatu-sandal-pria,raindoz,sepatu-sandal-pria,raindoz,"Sepatu Sandal Pria Bahan KULIT, Ukuran 38 - 43, Warna HITAM",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/198-rya-051.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rya-051-a.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rya-051-b.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rya-051-c.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rya-051-d.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rya-051-e.jpg,Sepatu Sandal / Bustong Kasual Pria - RYA 051,Rp 135.400,Rp 158.900,Rp 23.500,RYA 051,Baru
-Jual Sepatu Sandal / Bustong Kasual Pria - ROS 001 Murah,sepatu-sandal-bustong-kasual-pria-ros-001,"
+     </div><!--/category-tab-->",2018-02-25,html,sepatu-sandal-pria,catenzo,sepatu-sandal-pria,catenzo,"Sepatu Sandal Pria Bahan KULIT, Ukuran 39 ~ 43, Warna COKLAT",https://images.lipatan.com/katalog-catenzo-2018/foto-produk-satuan/rd-423.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/rd-423-a.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/rd-423-b.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/rd-423-c.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/rd-423-d.jpg,https://images.lipatan.com/katalog-catenzo-2018/foto-berbagai-sudut/rd-423-e.jpg,Sepatu Sandal / Bustong Casual Pria - RD 423,Rp 206.900,Rp 237.900,Rp 31.000,RD 423,Baru
+Jual Sepatu Sandal / Bustong Casual Pria - RYA 048 Murah,rya-048,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -681,19 +663,19 @@ Jual Sepatu Sandal / Bustong Kasual Pria - ROS 001 Murah,sepatu-sandal-bustong-k
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -713,7 +695,7 @@ Jual Sepatu Sandal / Bustong Kasual Pria - ROS 001 Murah,sepatu-sandal-bustong-k
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Sepatu Sandal / Bustong Kasual Pria - ROS 001 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Sandal Pria ini terbuat dari bahan SINTETIS.<br/>Kode : ROS 001<br/>Warna : HITAM<br/>Bahan : SINTETIS<br/>Ukuran : 38 - 43<br/>Berat : 1 kg<br/>Info Lainnya = SOL : TPR<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Sepatu Sandal / Bustong Casual Pria - RYA 048 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Sandal Pria ini terbuat dari bahan KULIT.<br/>Kode : RYA 048<br/>Warna : HITAM<br/>Bahan : KULIT<br/>Ukuran : 38 ~ 43<br/>Berat : 1000 gram<br/>Info Lainnya = SOL : TPR<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p><b>Gambar lain :</b></p>
@@ -726,11 +708,9 @@ Jual Sepatu Sandal / Bustong Kasual Pria - ROS 001 Murah,sepatu-sandal-bustong-k
                     </div>
                     <br/>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -738,8 +718,8 @@ Jual Sepatu Sandal / Bustong Kasual Pria - ROS 001 Murah,sepatu-sandal-bustong-k
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-17,html,sepatu-sandal-pria,raindoz,sepatu-sandal-pria,raindoz,"Sepatu Sandal Pria Bahan SINTETIS, Ukuran 38 - 43, Warna HITAM",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/199-ros-001.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/ros-001-a.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/ros-001-b.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/ros-001-c.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/ros-001-d.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/ros-001-e.jpg,Sepatu Sandal / Bustong Kasual Pria - ROS 001,Rp 120.900,Rp 141.900,Rp 21.000,ROS 001,Baru
-Jual Sepatu Sandal / Bustong Kasual Pria - RAP 001 Murah,sepatu-sandal-bustong-kasual-pria-rap-001,"
+     </div><!--/category-tab-->",2018-02-26,html,sepatu-sandal-pria,raindoz,sepatu-sandal-pria,raindoz,"Sepatu Sandal Pria Bahan KULIT, Ukuran 38 ~ 43, Warna HITAM",https://images.lipatan.com/katalog-raindoz-2018/foto-produk-satuan/rya-048.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rya-048-a.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rya-048-b.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rya-048-c.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rya-048-d.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rya-048-e.jpg,Sepatu Sandal / Bustong Casual Pria - RYA 048,Rp 140.900,Rp 162.900,Rp 22.000,RYA 048,Baru
+Jual Sepatu Sandal / Bustong Casual Pria - RYA 051 Murah,rya-051,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -755,19 +735,19 @@ Jual Sepatu Sandal / Bustong Kasual Pria - RAP 001 Murah,sepatu-sandal-bustong-k
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -787,7 +767,7 @@ Jual Sepatu Sandal / Bustong Kasual Pria - RAP 001 Murah,sepatu-sandal-bustong-k
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Sepatu Sandal / Bustong Kasual Pria - RAP 001 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Sandal Pria ini terbuat dari bahan CANVAS.<br/>Kode : RAP 001<br/>Warna : BIRU<br/>Bahan : CANVAS<br/>Ukuran : 38 - 43<br/>Berat : 1 kg<br/>Info Lainnya = SOL : RUBBER<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Sepatu Sandal / Bustong Casual Pria - RYA 051 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Sandal Pria ini terbuat dari bahan KULIT.<br/>Kode : RYA 051<br/>Warna : HITAM<br/>Bahan : KULIT<br/>Ukuran : 38 ~ 43<br/>Berat : 1200 gram<br/>Info Lainnya = SOL : TPR<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p><b>Gambar lain :</b></p>
@@ -800,11 +780,9 @@ Jual Sepatu Sandal / Bustong Kasual Pria - RAP 001 Murah,sepatu-sandal-bustong-k
                     </div>
                     <br/>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -812,8 +790,8 @@ Jual Sepatu Sandal / Bustong Kasual Pria - RAP 001 Murah,sepatu-sandal-bustong-k
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-17,html,sepatu-sandal-pria,raindoz,sepatu-sandal-pria,raindoz,"Sepatu Sandal Pria Bahan CANVAS, Ukuran 38 - 43, Warna BIRU",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/200-rap-001.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rap-001-a.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rap-001-b.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rap-001-c.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rap-001-d.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/rap-001-e.jpg,Sepatu Sandal / Bustong Kasual Pria - RAP 001,Rp 102.400,Rp 119.900,Rp 17.500,RAP 001,Baru
-Jual Sepatu Sandal / Bustong Kasual Pria - ROS 005 Murah,sepatu-sandal-bustong-kasual-pria-ros-005,"
+     </div><!--/category-tab-->",2018-02-26,html,sepatu-sandal-pria,raindoz,sepatu-sandal-pria,raindoz,"Sepatu Sandal Pria Bahan KULIT, Ukuran 38 ~ 43, Warna HITAM",https://images.lipatan.com/katalog-raindoz-2018/foto-produk-satuan/rya-051.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rya-051-a.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rya-051-b.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rya-051-c.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rya-051-d.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rya-051-e.jpg,Sepatu Sandal / Bustong Casual Pria - RYA 051,Rp 140.900,Rp 162.900,Rp 22.000,RYA 051,Baru
+Jual Sepatu Sandal / Bustong Casual Pria - RYA 055 Murah,rya-055,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -829,19 +807,19 @@ Jual Sepatu Sandal / Bustong Kasual Pria - ROS 005 Murah,sepatu-sandal-bustong-k
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -861,7 +839,7 @@ Jual Sepatu Sandal / Bustong Kasual Pria - ROS 005 Murah,sepatu-sandal-bustong-k
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Sepatu Sandal / Bustong Kasual Pria - ROS 005 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Sandal Pria ini terbuat dari bahan SINTETIS.<br/>Kode : ROS 005<br/>Warna : HITAM KOMBINASI<br/>Bahan : SINTETIS<br/>Ukuran : 38 - 43<br/>Berat : 1 kg<br/>Info Lainnya = SOL : TPR<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Sepatu Sandal / Bustong Casual Pria - RYA 055 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Sandal Pria ini terbuat dari bahan KULIT.<br/>Kode : RYA 055<br/>Warna : HITAM<br/>Bahan : KULIT<br/>Ukuran : 38 ~ 43<br/>Berat : 1000 gram<br/>Info Lainnya = SOL : TPR<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p><b>Gambar lain :</b></p>
@@ -874,11 +852,9 @@ Jual Sepatu Sandal / Bustong Kasual Pria - ROS 005 Murah,sepatu-sandal-bustong-k
                     </div>
                     <br/>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -886,4 +862,220 @@ Jual Sepatu Sandal / Bustong Kasual Pria - ROS 005 Murah,sepatu-sandal-bustong-k
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-17,html,sepatu-sandal-pria,raindoz,sepatu-sandal-pria,raindoz,"Sepatu Sandal Pria Bahan SINTETIS, Ukuran 38 - 43, Warna HITAM KOMBINASI",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/201-ros-005.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/ros-005-a.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/ros-005-b.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/ros-005-c.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/ros-005-d.jpg,https://images.lipatan.com/katalog-raindoz-2017-2/foto-berbagai-sudut/ros-005-e.jpg,Sepatu Sandal / Bustong Kasual Pria - ROS 005,Rp 120.900,Rp 141.900,Rp 21.000,ROS 005,Baru
+     </div><!--/category-tab-->",2018-02-26,html,sepatu-sandal-pria,raindoz,sepatu-sandal-pria,raindoz,"Sepatu Sandal Pria Bahan KULIT, Ukuran 38 ~ 43, Warna HITAM",https://images.lipatan.com/katalog-raindoz-2018/foto-produk-satuan/rya-055.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rya-055-a.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rya-055-b.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rya-055-c.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rya-055-d.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rya-055-e.jpg,Sepatu Sandal / Bustong Casual Pria - RYA 055,Rp 140.900,Rp 162.900,Rp 22.000,RYA 055,Baru
+Jual Sepatu Sandal / Bustong Casual Pria - ROS 010 Murah,ros-010,"
+     <div class=""product-details""><!--product-details-->
+      <div class=""col-sm-5"">
+       <div class=""view-product"">
+        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
+        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
+       </div>
+      </div>
+
+      <div class=""col-sm-7"">
+       <div class=""product-information""><!--/product-information-->
+        <h1>{{ page.product }}</h1>
+        <p>SKU: {{ page.sku }}</p>
+        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
+        <span>
+         <span>{{ page.price }}</span>        
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
+          </a>
+         </label>
+        </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
+        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
+        <p><b>Deskripsi:</b> {{ page.description }}</p>
+        {% include shareit.html %}
+       </div><!--/product-information-->
+      </div>
+     </div><!--/product-details-->
+     
+     <div class=""category-tab shop-details-tab""><!--category-tab-->
+      <div class=""col-sm-12"">
+       <ul class=""nav nav-tabs"">
+        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
+       </ul>
+      </div>
+      <div class=""tab-content"">
+       <div class=""tab-pane fade active in"" id=""keterangan"" >
+        <div class=""col-sm-12"">
+         <h2>{{ page.product }}</h2>         
+         <ol class=""breadcrumb"">
+            <li class=""active"">Tag :</li>
+            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
+            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
+         </ol>         
+         <p>Sepatu Sandal / Bustong Casual Pria - ROS 010 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Sandal Pria ini terbuat dari bahan SINTETIS.<br/>Kode : ROS 010<br/>Warna : COKLAT<br/>Bahan : SINTETIS<br/>Ukuran : 38 ~ 43<br/>Berat : 1000 gram<br/>Info Lainnya = SOL : TPR<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image5 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image5 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
+
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         Gudang : WRH-1<br>
+         Lokasi : Bandung</p>
+
+         {% include disqus.html %}
+         
+        </div>
+       </div>       
+       
+      </div>
+     </div><!--/category-tab-->",2018-02-26,html,sepatu-sandal-pria,raindoz,sepatu-sandal-pria,raindoz,"Sepatu Sandal Pria Bahan SINTETIS, Ukuran 38 ~ 43, Warna COKLAT",https://images.lipatan.com/katalog-raindoz-2018/foto-produk-satuan/ros-010.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/ros-010-a.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/ros-010-b.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/ros-010-c.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/ros-010-d.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/ros-010-e.jpg,Sepatu Sandal / Bustong Casual Pria - ROS 010,Rp 114.900,Rp 132.900,Rp 18.000,ROS 010,Baru
+Jual Sepatu Sandal / Bustong Casual Pria - RAP 001 Murah,rap-001,"
+     <div class=""product-details""><!--product-details-->
+      <div class=""col-sm-5"">
+       <div class=""view-product"">
+        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
+        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
+       </div>
+      </div>
+
+      <div class=""col-sm-7"">
+       <div class=""product-information""><!--/product-information-->
+        <h1>{{ page.product }}</h1>
+        <p>SKU: {{ page.sku }}</p>
+        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
+        <span>
+         <span>{{ page.price }}</span>        
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
+          </a>
+         </label>
+        </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
+        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
+        <p><b>Deskripsi:</b> {{ page.description }}</p>
+        {% include shareit.html %}
+       </div><!--/product-information-->
+      </div>
+     </div><!--/product-details-->
+     
+     <div class=""category-tab shop-details-tab""><!--category-tab-->
+      <div class=""col-sm-12"">
+       <ul class=""nav nav-tabs"">
+        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
+       </ul>
+      </div>
+      <div class=""tab-content"">
+       <div class=""tab-pane fade active in"" id=""keterangan"" >
+        <div class=""col-sm-12"">
+         <h2>{{ page.product }}</h2>         
+         <ol class=""breadcrumb"">
+            <li class=""active"">Tag :</li>
+            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
+            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
+         </ol>         
+         <p>Sepatu Sandal / Bustong Casual Pria - RAP 001 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Sandal Pria ini terbuat dari bahan CANVAS.<br/>Kode : RAP 001<br/>Warna : BIRU<br/>Bahan : CANVAS<br/>Ukuran : 38 ~ 43<br/>Berat : 1000 gram<br/>Info Lainnya = SOL : KARET<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image5 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image5 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
+
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         Gudang : WRH-1<br>
+         Lokasi : Bandung</p>
+
+         {% include disqus.html %}
+         
+        </div>
+       </div>       
+       
+      </div>
+     </div><!--/category-tab-->",2018-02-26,html,sepatu-sandal-pria,raindoz,sepatu-sandal-pria,raindoz,"Sepatu Sandal Pria Bahan CANVAS, Ukuran 38 ~ 43, Warna BIRU",https://images.lipatan.com/katalog-raindoz-2018/foto-produk-satuan/rap-001.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rap-001-a.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rap-001-b.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rap-001-c.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rap-001-d.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/rap-001-e.jpg,Sepatu Sandal / Bustong Casual Pria - RAP 001,Rp 105.900,Rp 121.900,Rp 16.000,RAP 001,Baru
+Jual Sepatu Sandal / Bustong Casual Pria - ROS 001 Murah,ros-001,"
+     <div class=""product-details""><!--product-details-->
+      <div class=""col-sm-5"">
+       <div class=""view-product"">
+        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
+        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
+       </div>
+      </div>
+
+      <div class=""col-sm-7"">
+       <div class=""product-information""><!--/product-information-->
+        <h1>{{ page.product }}</h1>
+        <p>SKU: {{ page.sku }}</p>
+        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
+        <span>
+         <span>{{ page.price }}</span>        
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
+          </a>
+         </label>
+        </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
+        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
+        <p><b>Deskripsi:</b> {{ page.description }}</p>
+        {% include shareit.html %}
+       </div><!--/product-information-->
+      </div>
+     </div><!--/product-details-->
+     
+     <div class=""category-tab shop-details-tab""><!--category-tab-->
+      <div class=""col-sm-12"">
+       <ul class=""nav nav-tabs"">
+        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
+       </ul>
+      </div>
+      <div class=""tab-content"">
+       <div class=""tab-pane fade active in"" id=""keterangan"" >
+        <div class=""col-sm-12"">
+         <h2>{{ page.product }}</h2>         
+         <ol class=""breadcrumb"">
+            <li class=""active"">Tag :</li>
+            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
+            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
+         </ol>         
+         <p>Sepatu Sandal / Bustong Casual Pria - ROS 001 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Sepatu Sandal Pria ini terbuat dari bahan SINTETIS.<br/>Kode : ROS 001<br/>Warna : HITAM<br/>Bahan : SINTETIS<br/>Ukuran : 38 ~ 43<br/>Berat : 1000 gram<br/>Info Lainnya = SOL : TPR<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         </p>
+
+         <p><b>Gambar lain :</b></p>
+                    <div class=""add-image"">
+                      <a href=""{{ page.image1 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image1 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image2 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image2 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image3 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image3 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image4 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image4 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>
+                      <a href=""{{ page.image5 }}"" target=""_blank"" title=""{{ page.product }}""><img src=""{{ page.image5 }}"" alt=""{{ page.product }}"" title=""Klik untuk memperbesar"" /></a>                                            
+                    </div>
+                    <br/>
+
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         Gudang : WRH-1<br>
+         Lokasi : Bandung</p>
+
+         {% include disqus.html %}
+         
+        </div>
+       </div>       
+       
+      </div>
+     </div><!--/category-tab-->",2018-02-26,html,sepatu-sandal-pria,raindoz,sepatu-sandal-pria,raindoz,"Sepatu Sandal Pria Bahan SINTETIS, Ukuran 38 ~ 43, Warna HITAM",https://images.lipatan.com/katalog-raindoz-2018/foto-produk-satuan/ros-001.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/ros-001-a.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/ros-001-b.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/ros-001-c.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/ros-001-d.jpg,https://images.lipatan.com/katalog-raindoz-2018/foto-berbagai-sudut/ros-001-e.jpg,Sepatu Sandal / Bustong Casual Pria - ROS 001,Rp 125.900,Rp 144.900,Rp 19.000,ROS 001,Baru
